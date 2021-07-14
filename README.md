@@ -1,8 +1,2 @@
 # Quantum-Winter-Hackathon
-Hackathon Problem Statement Solution.
-
-
-By
-Team Quantico
-
-
+Solution Approach to QW Hackathon
